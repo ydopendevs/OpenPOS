@@ -3,6 +3,10 @@
 - OpenPOS fue creado por el usuario Ydopen Devs en Github y se encuentra en su versión alfa 0.1.
 - El programa se compone de cuatro apartados: POS, API, Control y Registro, que permiten escribir y editar órdenes de compra, proporcionar información sobre el programa y la empresa, mostrar datos de las personas que facturan y mantener un registro de todas las facturas generadas, respectivamente.
 
+Se puede descargar desde: https://www.mediafire.com/file/dj6e2p00n7biay8/POS_DULCE_CREACIONES_%2528OpenPOS%2529_%2528version_0.1.1%2529.xlsm/file
+
+Si algo falla, contactarse a: ydopen.devs@gmail.com
+
 <!---
 ydopendevs/ydopendevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
