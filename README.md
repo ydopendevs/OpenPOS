@@ -2,8 +2,10 @@
 - El programa ha sido desarrollado utilizando Macros en Excel y el entorno integrado de desarrollo de Visual Basic.
 - OpenPOS fue creado por el usuario Ydopen Devs en Github y se encuentra en su versión alfa 0.1.
 - El programa se compone de cuatro apartados: POS, API, Control y Registro, que permiten escribir y editar órdenes de compra, proporcionar información sobre el programa y la empresa, mostrar datos de las personas que facturan y mantener un registro de todas las facturas generadas, respectivamente.
+- El cambio de dolar BCV se actualiza de manera constante a través de https://monitordolarvenezuela.com/
+- Eivte editar celdas que no permiten entrada de datos, podría afectar el funcionamiento del POS
 
-Se puede descargar desde: https://www.mediafire.com/file/dj6e2p00n7biay8/POS_DULCE_CREACIONES_%2528OpenPOS%2529_%2528version_0.1.1%2529.xlsm/file
+Se puede descargar desde este mismo repositorio
 
 Si algo falla, contactarse a: ydopen.devs@gmail.com
 
