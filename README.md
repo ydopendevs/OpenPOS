@@ -9,6 +9,7 @@ Se puede descargar desde este mismo repositorio el documento
 
 Si algo falla, contactarse a: ydopen.devs@gmail.com
 
+Actualmente, el manual se encuentra en desarrollo, pero dejamos un video de referencia de un POS similar para indicar algunos de los pasos de uso. De hecho, este punto de venta es una versión mejorada del que aparece en el video del siguiente enlace: https://youtu.be/BW5Or4pmBj4
 <!---
 ydopendevs/ydopendevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
